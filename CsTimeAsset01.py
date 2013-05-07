@@ -1,15 +1,19 @@
 
 
+
+class May_Week2 :
+    def D0507(Tuesday) :   #
+        A1 = "10:00 ~   :   50  :   조차장님 채팅, 소스코드.  "
+        A2 = "11:00 ~   :   50  :   Memory DB Study.  "
+        A3 = " 1:30 ~   :   30  :   Server Source Code Analy"
+        
+        
+
+
 class May_Week1 :
     def D0430(Tuesday) :   #
         A1 = "10:10 ~   :   50  :   2 + 1  "
         A2 = "11:30 ~   :   50  :   2 + 1  "
-
-        
-
-
-
-
 
 class Afril_Week4:
     def D0425(Thursday) :   # Target 100'
