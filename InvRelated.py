@@ -24,3 +24,16 @@ class HtFriendIdv (HtIndvBase):
         
 
     
+
+"""  Schedule
+
+1.  Coding ..
+1.1     3   자릿수 넘어가는 부분
+1.2     3   곱셈
+1.3     1   이펙트
+
+
+2.  Design
+        이펙트
+
+"""
