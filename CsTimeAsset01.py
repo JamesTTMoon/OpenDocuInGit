@@ -6,8 +6,8 @@ class May_Week2 :
         A1 = "10:00 ~   :   50  :   조차장님 채팅, 소스코드.  "
         A2 = "11:00 ~   :   50  :   Memory DB Study.  "
         A3 = " 1:30 ~   :   30  :   Server Source Code Analy"
-        
-        
+        A4 = " 2:30 ~   :   50  :   PKB network .. "
+        A5 = " 3:50 ~   :   60  :   Boost.Asio Study"
 
 
 class May_Week1 :
