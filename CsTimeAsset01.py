@@ -8,6 +8,12 @@ class May_Week2 :
         A3 = " 1:30 ~   :   30  :   Server Source Code Analy"
         A4 = " 2:30 ~   :   50  :   PKB network .. "
         A5 = " 3:50 ~   :   60  :   Boost.Asio Study"
+        
+    def D0509(Thursday) :   #
+        A0 = "채팅,  "
+        A1 = " 1:40 ~   :   50  :   Mps "
+        A5 = " 3:00 ~   :   50  :   Model Import"
+    
 
 
 class May_Week1 :
