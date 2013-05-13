@@ -17,14 +17,16 @@ class May_Week3 :
         A2 = " 1:30 ~   :   40  :   등록 5 Fiving 으로 결정. 렌더모델 세팅... "
         A3 = " 2:40 ~   :   30  :   Rendering, 설명 "
         A4 = " 2:40 ~   :   30  :   Rendering, 설명 "
-
-
         """
         숫자 5를 의미하는 외계인 캐릭터로서 몸체, 눈, 발로 구성되어 있으며 이들 구성체는 허공에 떠 있다.
         몸체는 막대기를 모아 구성한 모습이며 여기에 커다란 입술과 튀어나온 이빨이 붙어 있다.
         눈은 원형 하나와 길다란 모양 두개, 총 3개를 갖고 있으며 발은 신발같은 모양이다.
         """
-
+    def D0513(Monday) :   #
+        A1 = "  PKB :   11:00 ~   :   30'   :   To do list "
+        A2 = "  PKB :    2:00 ~   :   50'   :   Network "
+        A3 = "  STD :    4:40 ~   :   50'   :   Boost study :: http://en.highscore.de/cpp/boost/  "
+        
 
 class May_Week2 :
     def D0507(Tuesday) :   #
