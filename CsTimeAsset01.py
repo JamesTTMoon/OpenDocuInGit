@@ -8,6 +8,8 @@ To do List
 F L 없어지고 Hon 출현
 두번 실행시키지 않음.
 
+mps 10 jarisoo ... 
+
 """
 
 
@@ -26,6 +28,9 @@ class May_Week3 :
         A1 = "  PKB :   11:00 ~   :   30'   :   To do list "
         A2 = "  PKB :    2:00 ~   :   50'   :   Network "
         A3 = "  STD :    4:40 ~   :   50'   :   Boost study :: http://en.highscore.de/cpp/boost/  "
+    def D0514(Tuesday) :   #
+        A1 = "  Mps :    0:15 ~   :   30'   :   IntDivideLimit 작업"
+    
         
 
 class May_Week2 :
