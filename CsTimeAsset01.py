@@ -30,8 +30,15 @@ class May_Week3 :
         A3 = "  STD :    4:40 ~   :   50'   :   Boost study :: http://en.highscore.de/cpp/boost/  "
     def D0514(Tuesday) :   #
         A1 = "  Mps :    0:15 ~   :   30'   :   IntDivideLimit 작업"
-    
+    def D0515(Wednesday) :   #
+        A1 = "  Mps :    3:30 ~   :   30'   :   Eyes ..."
+    def D0517(Friday) :   # 200'
+        A1 = "  Mps :   12:40 ~   :   40'   :   LoadEye, Jumbi,  ..."
+        A2 = "  Mps :    4:30 ~   :   40'   :   Blender ..."
+        A3 = "  Mps :    5:50 ~   :   50'   :   준비단계에서 눈이 나눠지고, 혼 객체 위치에서 타겟을 추출하는 로직. GetEyeTargetFromHon "
+        A4 = "  Mps :    7:15 ~   :   70'   :   EyeDouble 에서 싱글 두개가 나오는 부분 완성. "
         
+        A2 = " gameobject 에 스크립트 할당, 진심 과 같은 방식. HtEyeIdv 수정.   "
 
 class May_Week2 :
     def D0507(Tuesday) :   #
