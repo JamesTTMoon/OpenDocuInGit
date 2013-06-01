@@ -1,17 +1,124 @@
 
+"""
+
+___ To Study List ___
+  # boost.asio
+  # python time check..
+  
+  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Daily Plan
+
+Language
+    30' :: Eng, Deu, Fra
+
+Work
+    300'    ::  
+
+IT Study
+    60' :: Havoc .. ??
+
+Design Study
+    30' :: Left hand drawing, gimp / blender tool.. 
+
+Health
+    30' :: Anae, Aero, Medi, Kgl
+
+Home, Kids
+    30' :: Home Imprv.
+    30' :: MTT 15' each
+
+Intelli.
+    60' :: Book..
+
+~~~~~~~ Total :: 600'
+
+
+To do List
+
+> Home page .. Domain ... 
+
+> Music, Sound ..
+
+
+> Anaerobic Exercise .. 
+
+mps 10 jarisoo ...  L, F 중 최대 자리수. 결과 아님.
+
 
 """
-To do List        
-회전에 대해 객체화.. 처방전
-리팩토링..이동  결과값 위치
+
+class May_Week5 :
+    def D0526(Sunday) :   # 두통, 이천 호국원, 저녁 미사.
+        """
+        잘생긴 신부, 젊은 미사곡, 태영이 영세 문의.
+        """
+
+    def D0527(Monday) : # Rainy . 하복 엔진 요청 ... 
+        A1 = "  Lit :    9:30 ~   :   30'   :   paul auster book of illusions"
+        A2 = "  Mps :   10:50 ~   :   60'   :   마케팅 "
+        A3 = "  Mps :   10:50 ~   :   60'   :   마케팅 "
+        A4 = "  Lit :    2:00 ~   :   30'   :   paul auster book of illusions"
+    
+    def D0528(Tuesday) : # Rainy . 성남 중도 ..  Ubuntu 13.04 upgrade ..  
+        A1 = "  Mps :   10:30 ~   :   50'   :   m10obj.transform.SetAeDora(mCurChubang.mFvr); 이게 안되네..  "
+        A2 = "  Mps :   12:00 ~   :   60'   :   중도에서 토론 "
+        A3 = "  Mps :    4:30 ~   :   30'   :   Schedule  MpsLaunch.py 작업 "
+        A4 = "  Exr :    7:00 ~   :   60'   :   Dongbaek Library walk, Mom, Anaerobic   Refreshed ..."
+        A5 = "  Lit :   11:00 ~   :   60'   :   paul auster book of illusions"
+    
+    def D0529(Wednesday) : # Rainy . 별장  target .. prog 100', design 100'
+        A1 = "  Mps :   10:00 ~   :   50'   :   make 10  계속 ..  "
+        A2 = "  Mps :    2:00 ~   :   50'   :   .. "
         
-F L 없어지고 Hon 출현
-두번 실행시키지 않음.
+    
+        
+class May_Week4 :
+    def D0519(Sunday) :   # 두통, 체함. 9시에 따뜻한 온열팩을 어깨 뒤에 얹은 후 바로 떨어짐.
+        pass
 
-mps 10 jarisoo ... 
-
-"""
-
+    def D0520(Monday) :   # copyright bill received ... 회사 전화. 내일 라프 정리 가능 ?
+        # Mps 100', Lit 50'
+        A1 = "  Mps :    2:20 ~   :   30'   :   Tree Modeling "
+        A2 = "  Lit :    3:00 ~   :   50'   :   paul auster book of illusions"
+        A3 = "  Mps :    4:40 ~   :   30'   :   House A Modeling "
+        A4 = "  Mps :    8:00 ~   :   40'   :   House B Modeling "
+    def D0521(Tuesday) :    # Final Rally Start ...
+        # Mps 180', Lit 30', Man 50'
+        A1 = "  Man :    9:30 ~   :   20'   :   옷가지, 파일 정리"
+        A2 = "  Mps :   10:20 ~   :   40'   :   한 사이클 마치고.. 삭제.."
+        A3 = "  Man :   11:00 ~   :   30'   :   창업 보육 관련 리서치"
+        A4 = "  Lit :   11:30 ~   :   30'   :   paul auster book of illusions"
+        A5 = "  Mps :    1:00 ~   :   40'   :   여러 애니 연속 재생.  라프 회신. 위약금 등등.. 협상 결렬 . "
+        A6 = "  Mps :    2:20 ~   :   30'   :   Jinsim Modelling .. "
+        A7 = "  Mps :    3:10 ~   :   70'   :   Jinsim Setting ~ 4.. "
+    def D0522(Wednesday) :    # Anaerobic Start ..
+        # Mps 130', Lit 0', Man 60'
+        A1 = "  Man :    9:00 ~   :   60'   :   Cathedral "
+        A2 = "  Mps :   10:30 ~   :   40'   :   Jinsim Setting ~ 6.. "
+        A3 = "  Mps :    1:10 ~   :   50'   :   Jinsim Setting ~ 8.. "
+        A3 = "  Mps :    2:50 ~   :   20'   :   Jinsim Setting ~ 9.. "
+        A4 = "  Mps :    4:10 ~   :   20'   :   make 10  "
+    def D0523(Thursday) :    # No Headache ...
+        # Mps 130', Lit 0', Man 60'
+        A1 = "  Mps :    9:15 ~   :   40'   :   make 10"
+        A2 = "  Mps :   11:10 ~   :   40'   :   make 10 ... isOver10 ... HtFriendIdv.cs "
+    
+    def D0524(Friday) :    # Bad Sleep .. Tired in the morning
+        # Mps 150', Lit 60', Man 60'
+        A1 = "  Mps :   11:30 ~   :  150'   :   JKLee Meeting "
+        A2 = "  Lit :    4:00 ~   :   60'   :   The highly sensitive person 일레인 아론 "
+    
+    def D0525(Saturday) :   # Good sleep, some headache .  disappear at 2 pm.
+        # Mps 150', Lit 60', Man 60'
+        A1 = "  Exr :   10:30 ~   :   60'   :   Dongbaek Library walk "
+        A2 = "  Lit :    1:20 ~   :   30'   :   paul auster book of illusions"
+        A3 = "  Lit :    3:00 ~   :   30'   :   의료, 독일인들은 국장을 치르듯 계란을 삶는다"
+        A4 = "  Mps :    4:30 ~   :   90'   :   Blender Texture .. Tree, House  "
+        
+        
+        
+        
+        
 
 class May_Week3 :
     def D0512(Sunday) :   #
@@ -32,13 +139,15 @@ class May_Week3 :
         A1 = "  Mps :    0:15 ~   :   30'   :   IntDivideLimit 작업"
     def D0515(Wednesday) :   #
         A1 = "  Mps :    3:30 ~   :   30'   :   Eyes ..."
-    def D0517(Friday) :   # 200'
+    def D0517(Friday) :     # 200'
         A1 = "  Mps :   12:40 ~   :   40'   :   LoadEye, Jumbi,  ..."
         A2 = "  Mps :    4:30 ~   :   40'   :   Blender ..."
         A3 = "  Mps :    5:50 ~   :   50'   :   준비단계에서 눈이 나눠지고, 혼 객체 위치에서 타겟을 추출하는 로직. GetEyeTargetFromHon "
         A4 = "  Mps :    7:15 ~   :   70'   :   EyeDouble 에서 싱글 두개가 나오는 부분 완성. "
-        
-        A2 = " gameobject 에 스크립트 할당, 진심 과 같은 방식. HtEyeIdv 수정.   "
+    def D0518(Saturday) :     # 70'
+        A1 = "  Mps :    5:00 ~   :   50'   :   Debugging .. "
+        A2 = "  Mps :    6:00 ~   :   20'   :   루프에서 삭제 하려면.. 시간차로 해야함. timer action 설정.  ..."
+        # 광명 코스트코.
 
 class May_Week2 :
     def D0507(Tuesday) :   #
