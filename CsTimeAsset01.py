@@ -47,6 +47,12 @@ mps 10 jarisoo ...  L, F 중 최대 자리수. 결과 아님.
 
 """
 
+class June_Week1 :
+    def D0602(Sunday) :   #
+        A2 = "  Bst :   11:00 ~   :   60'   :   Tutorial 2 Async Timer "
+        A3 = "  Mps :   10:50 ~   :   60'   :   마케팅 "
+
+
 class May_Week5 :
     def D0526(Sunday) :   # 두통, 이천 호국원, 저녁 미사.
         """
@@ -69,8 +75,18 @@ class May_Week5 :
     def D0529(Wednesday) : # Rainy . 별장  target .. prog 100', design 100'
         A1 = "  Mps :   10:00 ~   :   50'   :   make 10  계속 ..  "
         A2 = "  Mps :    2:00 ~   :   50'   :   .. "
-        
     
+    def D0530(Thursday) : # 종국씨 XBox 360 ..  라프 계약 해지. 
+        A1 = "  Mps :    1:00 ~   :   60'   :   Meeting..  "
+    
+    def D0531(Friday) :  # 휴식.   Ghost Busters .. 
+        A1 = "  Exr :   10:00 ~   :   60'   :   Nature Sundo, Breath"
+        A2 = "  Lit :    1:00 ~   :   30'   :   유레카 Karl Josef Durwen  원제 Im Spiegel der Moglichkeit. Philosophischer Abenteuerroman um Relitat und Virualitat, Bewusstsein und Menschsein "
+    
+    def D0601(Saturday) :  # 휴식.   Ghost Busters .. 
+        A1 = "  Lit :    1:00 ~   :   30'   :   The Founder's Dilemmas  Noam Wasserman "
+        A2 = "  Bst :    2:00 ~   :  120'   :   Boost.Asio 시작. 컴파일 성공 .. 링크 에러.. 18 "
+        A3 = "  Lit :    1:00 ~   :   30'   :   유레카 Karl Josef Durwen  원제 Im Spiegel der Moglichkeit. Philosophischer Abenteuerroman um Relitat und Virualitat, Bewusstsein und Menschsein "
         
 class May_Week4 :
     def D0519(Sunday) :   # 두통, 체함. 9시에 따뜻한 온열팩을 어깨 뒤에 얹은 후 바로 떨어짐.
