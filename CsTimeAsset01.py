@@ -44,15 +44,51 @@ To do List
 
 mps 10 jarisoo ...  L, F 중 최대 자리수. 결과 아님.
 
-
+내분점 관련 <좌표>
 """
 
 class June_Week1 :
+    """
+    graft       :   접목시키다.
+    gibberish   :   뜻 모를 말.. 중얼 중얼...
+    inconsistency : 모순
+    concession  :   양보, 인정
+    compelling  :   강제적인
+    directive   :   지시. 지시자.
+    hassle      :   말다툼.
+    bastion     :   요새, 성채
+    yam         :   얌, 고구마, 감자
+    """
     def D0602(Sunday) :   #
-        A2 = "  Bst :   11:00 ~   :   60'   :   Tutorial 2 Async Timer "
-        A3 = "  Mps :   10:50 ~   :   60'   :   마케팅 "
+        A1 = "  Bst :   11:00 ~   :   60'   :   Tutorial 2 Async Timer "
+        A2 = "  Lit :    1:30 ~   :   50'   :   Umberto Eco : Il cimitero di Praga "
+        A3 = "  Lit :    4:30 ~   :   30'   :   Umberto Eco : Il cimitero di Praga "
 
-
+    def D0603(Monday) :   # 사무실 .. 
+        A1 = "  C++ :   11:30 ~   :   30'   :   Etc download .. test "
+        A2 = "  C++ :    3:30 ~   :   30'   :     "
+        A3 = "  C++ :    4:30 ~   :   60'   :   Prata  C++ Primer Plus  "
+    
+    def D0604(Tuesday) :   # Prata C++  130'
+        A1 = "  PKB :   10:00 ~   :   30'   :   문서, Documentation "
+        A2 = "  PKB :   11:00 ~   :   50'   :   Re factoring .."
+        A3 = "  C++ :    1:30 ~   :   50'   :   Prata  C++ Primer Plus       9 ~ 15"
+        A4 = "  C++ :    2:30 ~   :   80'   :   Prata  C++ Primer Plus      15 ~ 35"
+    def D0605(Wednesday) :   # Main Board, 알라딘 1001 문 책 주문.  
+        A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
+        A2 = "  PKB :    1:20 ~   :   30'   :   Git Setting.. etc ."
+        A3 = "  C++ :    1:45 ~   :   50'   :   Prata  C++ Primer Plus       어레이 : 7 p"
+        
+    def D0606(Wednesday) :   # Main Board, 알라딘 1001 문 책 주문.  
+        A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
+    def D0607(Friday) :   # firefox 업뎃 .. 
+        A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
+        
+        
+        
+        
+        
+    
 class May_Week5 :
     def D0526(Sunday) :   # 두통, 이천 호국원, 저녁 미사.
         """
