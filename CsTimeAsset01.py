@@ -60,6 +60,7 @@ class June_Week1 :
     yam         :   얌, 고구마, 감자
     lull        :   달래다. (자장가)
     
+    
     """
     def D0602(Sunday) :   #
         A1 = "  Bst :   11:00 ~   :   60'   :   Tutorial 2 Async Timer "
@@ -81,13 +82,10 @@ class June_Week1 :
         A2 = "  PKB :    1:20 ~   :   30'   :   Git Setting.. etc ."
         A3 = "  C++ :    1:45 ~   :   50'   :   Prata  C++ Primer Plus       4. 어레이 : 7 p"
         A4 = "  C++ :    3:30 ~   :   40'   :   Prata  C++ Primer Plus       7. Functions"
-        
-        
-        
-    def D0606(Wednesday) :   # 
-        A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
-    def D0607(Friday) :   # firefox 업뎃 ..   두개의 깃 아이디 사용 방법 .. 인증 .. 
-        A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
+    def D0606(Thursday) :   # 석성산. 2 ~ 4 낮잠. 태욱/병규 파자마 파티.
+        A1 = "  MTT :   10:00 ~   :  120'   :   석성산, 맨발 하산 . "
+    def D0607(Friday) :   # firefox 업뎃 ..  
+        A1 = "  PKB :   12:30 ~   :   60'   :    "
         
         
         
