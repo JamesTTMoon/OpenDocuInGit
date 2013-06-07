@@ -84,9 +84,9 @@ class June_Week1 :
         
         
         
-    def D0606(Wednesday) :   # Main Board, 알라딘 1001 문 책 주문.  
+    def D0606(Wednesday) :   # 
         A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
-    def D0607(Friday) :   # firefox 업뎃 .. 
+    def D0607(Friday) :   # firefox 업뎃 ..   두개의 깃 아이디 사용 방법 .. 인증 .. 
         A1 = "  MTT :    9:30 ~   :   60'   :   공개 수업. 그림 보고 나의 상황에 맞춰 얘기하기.. "
         
         
