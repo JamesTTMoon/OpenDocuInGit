@@ -7,45 +7,50 @@ ___ To Study List ___
   
   
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Daily Plan
-
-Language
-    30' :: Eng, Deu, Fra
-
-Work
-    300'    ::  
-
-IT Study
-    60' :: Havoc .. ??
-
-Design Study
-    30' :: Left hand drawing, gimp / blender tool.. 
-
-Health
-    30' :: Anae, Aero, Medi, Kgl
-
-Home, Kids
-    30' :: Home Imprv.
-    30' :: MTT 15' each
-
-Intelli.
-    60' :: Book..
-
-~~~~~~~ Total :: 600'
-
+< MPS : 1h >, < C++ : 1h >, < Lit : 1h >, < Med : 1h >, < PyObj : 30' >
 
 To do List
 
 > Home page .. Domain ... 
-
 > Music, Sound ..
-
-
 > Anaerobic Exercise .. 
 
-mps 10 jarisoo ...  L, F 중 최대 자리수. 결과 아님.
 
-내분점 관련 <좌표>
 """
+
+class June_Week2 :
+    """
+    cumbersome      :   성가신
+    
+    """
+    # Plan
+    
+    def D0609(Sunday) :   #
+        A1 = "  Exr :   11:30 ~   :   60'   :   Meditation "
+        A2 = "  MPS :    3:00 ~   :   40'   :   Blender tutorials  "
+    def D0610(Monday) :   # total 260'
+        A1 = "  yObj:    9:30 ~   :   30'   :   Xcode command line tools .. "
+        A2 = "  MPS :   10:00 ~   :   40'   :   Make 10 초안..  "
+        A3 = "  PKB :   11:00 ~   :   50'   :   Google App Engine .. Install "
+        A4 = "  PKB :    1:50 ~   :   50'   :   Google App Engine .. Python runtime environment "
+        A4 = "  PKB :    3:00 ~   :   40'   :   Google App Engine .. Tutorial .. Hello World "
+        A2 = "  C++ :    5:00 ~   :   50'   :   Prata  C++ Primer Plus       10. class "
+    def D0611(Tuesday) :  # Woke up 5:30
+        A1 = "  yObj:    1:10 ~   :   30'   :   Understanding existing PyObjC examples.. "
+        A2 = "  PKB :    2:00 ~   :  150'   :   Google App Engine ..  Unity Test .. "
+    def D0612(Wednesday) :  # 동백 도서관, 두통, 수련 2시간
+        A0 = "  PKB :   10:00 ~   :  120'   :   WWDC Technical session .. XCode5 .. "
+        A1 = "  Ext:    10:00 ~   :   60'   :   Med 2 h  "
+        A2 = "  Lit :    2:00 ~   :   50'   :   paul auster .. New York Trilogy "
+    def D0613(Thursday) :   # IT books rearrange to N drive .
+        A1 = "  yObj:   10:30 ~   :   30'   :   컴파일, 런 .. 된다... "
+        A2 = "  Lit :   11:00 ~   :   50'   :   paul auster .. New York Trilogy "
+        A3 = "  C++ :    1:40 ~   :   30'   :   Prata  C++ Primer Plus       11. Operator Overloading "
+        
+        
+    
+    def D0614(Friday) :   # 그림파일 업로드. 
+        A1 = "  yObj:   10:30 ~   :   30'   :   컴파일, 런 .. 된다... "
 
 class June_Week1 :
     """
@@ -59,8 +64,6 @@ class June_Week1 :
     bastion     :   요새, 성채
     yam         :   얌, 고구마, 감자
     lull        :   달래다. (자장가)
-    
-    
     """
     def D0602(Sunday) :   #
         A1 = "  Bst :   11:00 ~   :   60'   :   Tutorial 2 Async Timer "
@@ -85,12 +88,12 @@ class June_Week1 :
     def D0606(Thursday) :   # 석성산. 2 ~ 4 낮잠. 태욱/병규 파자마 파티.
         A1 = "  MTT :   10:00 ~   :  120'   :   석성산, 맨발 하산 . "
     def D0607(Friday) :   # firefox 업뎃 ..  
-        A1 = "  PKB :   12:30 ~   :   60'   :    "
-        
-        
-        
-        
-        
+        A1 = "  PKB :   12:30 ~   :  100'   :   Game Server Source Review  "
+        A2 = "  C++ :    2:30 ~   :   60'   :   Prata  C++ Primer Plus       8. Reference "
+    def D0608(Saturday) :   # Meditation .. overcome headache ..  태영/맘 찜질방   Oz the great ...
+        A1 = "  MPS :   11:00 ~   :   50'   :   Rigging / Skinning "
+        A2 = "  Exr :    3:00 ~   :   60'   :   Meditation "
+        A3 = "  Lit :    4:30 ~   :   60'   :   Umberto Eco : Il cimitero di Praga "
     
 class May_Week5 :
     def D0526(Sunday) :   # 두통, 이천 호국원, 저녁 미사.
