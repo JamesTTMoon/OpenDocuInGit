@@ -7,20 +7,77 @@ ___ To Study List ___
   
   
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  Daily Plan
-< MPS : 1h >, < C++ : 1h >, < Lit : 1h >, < Med : 1h >, < PyObj : 30' >
+< MPS : 1h >,
+Life Impv.  < Lit : 1h >, < Med : 1h >, 
+Daily Dev Study
+< Unity > MPS
+< Blender > MPS
+< Gimp > MPS
+< Midi > MPS
+< Obj-C > Animation
+< C++ / Network / PyObj >
 
 To do List
-
 > Home page .. Domain ... 
 > Music, Sound ..
-> Anaerobic Exercise .. 
-
 
 """
+class June_Week4 :
+    """
+    indivisible         :   분해할 수 없는. 
+    stomp               :   stomp .. dance..
+    
+    """
+    def D0623(Sunday) :   #
+        A1 = "  MTT :    9:00 ~   :  200'   :   Blue Marble"
+        A2 = "  Exr :    8:00 ~   :   20'   :   Hobo Pose "
+        # 블루마블, 테레비 시청.
+    def D0624(Monday) :   # 
+        A1 = "  Med :    9:00 ~   :   30'   :   Hang Gong "
+    def D0625(Tuesday) :   # VAT bill issue
+        A2 = "  C++ :    3:00 ~   :   50'   :   Prata  C++ Primer Plus       2. Token "
+        A2 = "  Exr :    8:00 ~   :   20'   :   Hobo Pose "
+    def D0626(Wednesday) :   # 
+        A1 = "  C++ :    9:00 ~   :   50'   :   Prata  C++ Primer Plus       2. Token "
+        A2 = "  PKB :   10:00 ~   :   50'   :   조차장님 미팅 .. "
+        A3 = "  PKB :    2:00 ~   :   50'   :   메모리 릭 검토 "
+        A2 = "  PKB :    3:00 ~   :   50'   :   사마린 프로젝트 ... "
+        
+    def D0626(Wednesday) :   # New Blog, Kino Reserve ..
+        
+        
+        A1 = "  C++ :    9:00 ~   :   50'   :   Prata  C++ Primer Plus       2. Token "
+        
+
+class June_Week3 :
+    def D0616(Sunday) :   # Bike Riding 
+        A1 = "  Exr :    4:00 ~   :  120'   :   Riding "
+    def D0617(Monday) :   # JCE Meeting ..
+        A1 = "  Py  :    9:00 ~   :   30'   :   Variable "
+    def D0618(Tuesday) :   # Rain Pouring
+        A2 = "  MPS :   10:20 ~   :   40'   :   Make 10 초안.. "
+    def D0619(Wednesday) :   # JCE 계약 합의.  이팀장님 사무실
+        A2 = "  PKB :   10:20 ~   :  200'   :   미팅, 등등 .. "
+    def D0620(Thursday) :   # 석성산 정상.
+        A1 = "  Exr :   12:00 ~   :  120'   :   Climbing "
+    def D0621(Friday) :   #
+        # kyobo book ..# 열혈강의 TCP/IP .. 책 선정 ..
+        A1 = "  PKB :   10:20 ~   :  200'   :   미팅, 등등 .. "
+    # 토 : 코스트코 .
+    
 
 class June_Week2 :
     """
     cumbersome      :   성가신
+    npc             :   몹 등을 움직여줌. 
+    ipc 통신          :   tcp/ip 보다 빠른 서버간 통신. 같은 구역 내에 있어야.
+    berkeley DB     :
+    ACID(Atomicity, Consistency, Isolation, Durability)
+    GM              :   Game Manager 
+    CBT             :   Closed Beta Test ...
+    PK              :   Player Killer
+    DRM             :   Digital Rights Management  Hacking .. ??
+    TCG             :   Trading Card Game
     
     """
     # Plan
@@ -36,7 +93,7 @@ class June_Week2 :
         A4 = "  PKB :    3:00 ~   :   40'   :   Google App Engine .. Tutorial .. Hello World "
         A2 = "  C++ :    5:00 ~   :   50'   :   Prata  C++ Primer Plus       10. class "
     def D0611(Tuesday) :  # Woke up 5:30
-        A1 = "  yObj:    1:10 ~   :   30'   :   Understanding existing PyObjC examples.. "
+        A1 = "  PyObj:    1:10 ~   :   30'   :   Understanding existing PyObjC examples.. "
         A2 = "  PKB :    2:00 ~   :  150'   :   Google App Engine ..  Unity Test .. "
     def D0612(Wednesday) :  # 동백 도서관, 두통, 수련 2시간
         A0 = "  PKB :   10:00 ~   :  120'   :   WWDC Technical session .. XCode5 .. "
